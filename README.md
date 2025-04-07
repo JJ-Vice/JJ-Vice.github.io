@@ -1,35 +1,30 @@
-# ICIP 2025 Grand Challenge
 
-Welcome to the repository for the ICIP 2025 Grand Challenge! This challenge invites researchers and practitioners to tackle open problems in image processing and computer vision.
-
-## 📌 Overview
-
-This repository contains:
-
-- Dataset access and details
-- Starter code
-- Submission instructions
-- Important dates
-
-## 📁 Dataset
-
-Please see the [dataset directory](./dataset) for download links and format specifications.
-
-## 🧪 Evaluation
-
-Submissions will be evaluated based on accuracy, robustness, and innovation. More details can be found in the `submission_guidelines.md`.
-
-## 📅 Key Dates
-
-- Launch: June 1, 2024  
-- Submissions Due: December 1, 2024  
-- Results: March 2025  
-- ICIP 2025: September 2025
-
-## 💬 Contact
-
-Questions? Reach out to us at [icip2025challenge@example.com](mailto:icip2025challenge@example.com)
+# ICIP 2025 Grand Challenge  
+## Poison Sample Detection and Trigger Retrieval in Multimodal VQA Models
 
 ---
 
-© 2024 ICIP Grand Challenge Committee
+## 📌 Overview
+
+Multimodal Visual Question Answering (VQA) models are increasingly used in applications from autonomous vehicles to medical diagnostics. However, they are vulnerable to **backdoor attacks**, where hidden triggers cause adversarial behavior.
+
+This challenge invites the community to:
+- Detect **poisoned samples**
+- Identify **trigger severity**
+- Enhance **security** in VQA models
+
+It consists of **three tasks**:
+- Object Identification  
+- Threat Detection  
+- Object Counting
+
+Each task includes **three backdoor-injected models** (9 total). Participants will receive a mixed dataset of poisoned and clean samples to evaluate.
+
+---
+
+## 📁 Dataset & Submission
+
+- **Images**: 38,124 total (mixed clean and poisoned)  
+- **Format**: Shuffled with unique IDs  
+- **Submit**: A `.csv` file in the format below:
+
