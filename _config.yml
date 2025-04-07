@@ -4,3 +4,11 @@ author: "ICIP Grand Challenge Committee"
 theme: jekyll-theme-cayman
 markdown: kramdown
 baseurl: ""
+
+# Custom CSS
+defaults:
+  - scope:
+      path: ""
+    values:
+      stylesheets:
+        - /custom.css
