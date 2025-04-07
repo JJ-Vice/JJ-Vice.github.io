@@ -1,30 +1,84 @@
+---
+layout: default
+title: ICIP 2025 Grand Challenge
+---
 
-# ICIP 2025 Grand Challenge  
-## Poison Sample Detection and Trigger Retrieval in Multimodal VQA Models
+> Download the results template: `ICIP25_poison_sample_detection_results.csv`
+
+Participants must submit:
+1. The completed CSV
+2. A 4-page paper (ICIP format) detailing methods and results
 
 ---
 
-## 📌 Overview
+## 🧪 Evaluation Criteria
 
-Multimodal Visual Question Answering (VQA) models are increasingly used in applications from autonomous vehicles to medical diagnostics. However, they are vulnerable to **backdoor attacks**, where hidden triggers cause adversarial behavior.
+- **Detection Accuracy (40%)**: Poisoned vs. clean  
+- **Severity Classification (40%)**:  
+  - Weak (hard) → 10%  
+  - Moderate (medium) → 15%  
+  - Strong (easy) → 15%  
+- **Paper Quality (20%)**: Clarity, methodology, and insight
 
-This challenge invites the community to:
-- Detect **poisoned samples**
-- Identify **trigger severity**
-- Enhance **security** in VQA models
-
-It consists of **three tasks**:
-- Object Identification  
-- Threat Detection  
-- Object Counting
-
-Each task includes **three backdoor-injected models** (9 total). Participants will receive a mixed dataset of poisoned and clean samples to evaluate.
+> Submissions are reviewed via double-blind review by at least two reviewers.
 
 ---
 
-## 📁 Dataset & Submission
+## 📅 Timeline
 
-- **Images**: 38,124 total (mixed clean and poisoned)  
-- **Format**: Shuffled with unique IDs  
-- **Submit**: A `.csv` file in the format below:
+| Milestone | Date |
+|----------|------|
+| 📂 Dataset Release | April 23, 2025 |
+| 📝 Registration Deadline | May 14, 2025 |
+| 📤 Paper Submission | May 28, 2025 |
+| ✅ Acceptance Notification | June 25, 2025 |
+| 📘 Final Paper Due | July 2, 2025 |
+| 🏆 Winner Notification | July 2, 2025 |
+| 🎤 Challenge Session @ ICIP | September 2025 |
 
+---
+
+## 📜 Rules
+
+1. **Eligibility**: Open to all research, academic, and industry participants  
+2. **Submissions**: Manuscript (4 pages) + CSV results file  
+3. **Dataset Use**: Only the provided dataset is permitted  
+4. **Evaluation**: Two-stage scoring (accuracy + severity)  
+5. **Ethics**: No plagiarism; original work only  
+6. **Team Submissions**: Allowed; list all team members  
+7. **Deadlines**: No late or revised submissions  
+8. **Disqualification**: For any rule violations
+
+---
+
+## 👥 Organizers
+
+- **Jordan Vice** – University of Western Australia  
+  [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)  
+- **Ajmal Mian** – University of Western Australia  
+  [ajmal.mian@uwa.edu.au](mailto:ajmal.mian@uwa.edu.au)  
+- **Richard Hartley** – Australian National University  
+  [Richard.hartley@anu.edu.au](mailto:Richard.hartley@anu.edu.au)  
+- **Naveed Akhtar** – University of Melbourne  
+
+---
+
+## 🧠 Why This Challenge Matters
+
+Backdoor attacks can cause VQA models to:
+- Misidentify objects (e.g., in autonomous vehicles)
+- Ignore threats (e.g., weapons in surveillance)
+- Miscount (e.g., in logistics or healthcare)
+
+This challenge promotes trust, safety, and **AI robustness** for real-world applications.
+
+---
+
+## ✉️ Contact
+
+For questions or clarifications, contact:  
+📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)
+
+---
+
+© ICIP 2025 Grand Challenge Committee
