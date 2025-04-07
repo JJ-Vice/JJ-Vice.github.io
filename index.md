@@ -3,13 +3,7 @@ layout: default
 title: Poison Sample Detection and Trigger Retrieval in Multimodal VLMs
 ---
 
-# 🧪 ICIP 2025 Grand Challenge  
-## Poison Sample Detection and Trigger Retrieval in Multimodal VQA Models
-
----
-
-## 👋 Introduction
-
+### Poison Sample Detection and Trigger Retrieval in Multimodal VLMs - ICIP2025 Grand Challenge
 Multimodal Visual Question Answering (VQA) systems integrate both visual and textual inputs to provide context-aware responses. These models are rapidly becoming foundational tools across domains like autonomous vehicles, defense systems, medical imaging, and assistive technologies.
 
 However, their deployment introduces a significant threat surface for **backdoor attacks** — subtle, malicious manipulations of training data that embed hidden triggers. When activated, these triggers can force the model to output incorrect or adversarial responses. Such vulnerabilities raise concerns about **trust, transparency, and safety** in AI systems.
@@ -19,7 +13,6 @@ The **ICIP 2025 Grand Challenge** seeks to address this problem head-on by invit
 ---
 
 ## 🎯 Challenge Overview
-
 This challenge is structured around three core VQA tasks, each with three independently backdoor-injected models (9 total models):
 
 - 🏷️ **Object Identification**  
@@ -28,12 +21,69 @@ This challenge is structured around three core VQA tasks, each with three indepe
 
 Participants will analyze an image dataset that includes both clean and poisoned samples. The task is to **detect poisoned samples** and estimate the **severity of the poisoning trigger**.
 
-> Securing multimodal VQA models is more than a technical problem — it's a societal necessity, with implications ranging from public safety to the ethical deployment of AI in the real world&#8203;:contentReference[oaicite:1]{index=1}.
+> Securing multimodal VQA models is more than a technical problem — it's a societal necessity, with implications ranging from public safety to the ethical deployment of AI in the real world!
 
 ---
 
-## 🧪 Dataset
+Participants must submit:
+1. The **completed** 'ICIP25_poison_sample_detection_results.csv' results file
+2. A 4-page paper (ICIP format) detailing methods and results
 
+---
+
+## 🧪 Evaluation Criteria
+- **Detection Accuracy (40%)**: Poisoned vs. clean  
+- **Severity Classification (40%)**:  
+  - Weak (hard) → 10%  
+  - Moderate (medium) → 15%  
+  - Strong (easy) → 15%  
+- **Paper Quality (20%)**: Clarity, methodology, and insight
+
+> Submissions are reviewed via double-blind review by at least two reviewers.
+
+---
+
+## 📅 Timeline
+| Milestone | Date |
+|----------|------|
+| 📂 Dataset Release | April 23, 2025 |
+| 📝 Registration Deadline | May 14, 2025 |
+| 📤 Paper Submission | May 28, 2025 |
+| ✅ Acceptance Notification | June 25, 2025 |
+| 📘 Final Paper Due | July 2, 2025 |
+| 🏆 Winner Notification | July 2, 2025 |
+| 🎤 Challenge Session @ ICIP | September 2025 |
+
+---
+
+## 📜 Rules
+1. **Eligibility**: Open to all research, academic, and industry participants  
+2. **Submissions**: Manuscript (4 pages) + CSV results file  
+3. **Dataset Use**: Only the provided dataset is permitted  
+4. **Evaluation**: Two-stage scoring (accuracy + severity)  
+5. **Ethics**: No plagiarism; original work only  
+6. **Team Submissions**: Allowed; list all team members  
+7. **Deadlines**: No late or revised submissions  
+8. **Disqualification**: For any rule violations
+
+---
+
+## 👥 Organizers
+- **Jordan Vice** – University of Western Australia  
+  [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)  
+- **Ajmal Mian** – University of Western Australia  
+  [ajmal.mian@uwa.edu.au](mailto:ajmal.mian@uwa.edu.au)  
+- **Richard Hartley** – Australian National University
+- **Naveed Akhtar** – University of Melbourne  
+
+---
+
+## ✉️ Contact
+For questions or clarifications, contact:  
+📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)
+
+---
+## Dataset Informatio
 - 📦 **Total Images**: 38,124
 - 🧪 **Data Composition**: A mix of clean and poisoned samples
 - 🔀 **Image Labeling**: Unique IDs only (no descriptive metadata)
