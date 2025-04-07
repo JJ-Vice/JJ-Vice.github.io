@@ -40,8 +40,9 @@ Participants must submit:
 ---
 
 ## 📅 Timeline
+
 | Milestone | Date |
-|----------|------|
+|---------- |------|
 | 📂 Dataset Release | April 23, 2025 |
 | 📝 Registration Deadline | May 14, 2025 |
 | 📤 Paper Submission | May 28, 2025 |
