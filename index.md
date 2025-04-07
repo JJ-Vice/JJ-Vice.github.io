@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ICIP 2025 Grand Challenge
+title: Poison Sample Detection and Trigger Retrieval in Multimodal VQA Models
 ---
 
 > Download the results template: `ICIP25_poison_sample_detection_results.csv`
