@@ -23,15 +23,11 @@ Participants will analyze an image dataset that includes both clean and poisoned
 
 > Securing multimodal VQA models is more than a technical problem — it's a societal necessity, with implications ranging from public safety to the ethical deployment of AI in the real world!
 
----
-
 Participants must submit:
 1. The **completed** 'ICIP25_poison_sample_detection_results.csv' results file
 2. A 4-page paper (ICIP format) detailing methods and results
 
----
-
-## 🧪 Evaluation Criteria
+🧪 Evaluation Criteria:
 - **Detection Accuracy (40%)**: Poisoned vs. clean  
 - **Severity Classification (40%)**:  
   - Weak (hard) → 10%  
@@ -78,12 +74,12 @@ Participants must submit:
 
 ---
 
-## ✉️ Contact
+## Contact
 For questions or clarifications, contact:  
 📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)
 
 ---
-## Dataset Informatio
+## Dataset Information
 - 📦 **Total Images**: 38,124
 - 🧪 **Data Composition**: A mix of clean and poisoned samples
 - 🔀 **Image Labeling**: Unique IDs only (no descriptive metadata)
