@@ -49,7 +49,7 @@ Participants must submit:
 | ✅ Acceptance Notification | June 25, 2025 |
 | 📘 Final Paper Due | July 2, 2025 |
 | 🏆 Winner Notification | July 2, 2025 |
-| 🎤 Challenge Session @ ICIP | September 2025 |
+| 🎤 ICIP | September 2025 |
 
 ---
 
