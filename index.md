@@ -3,7 +3,7 @@
 layout: default
 title: Poison Sample Detection and Trigger Retrieval in Multimodal VLMs
 ---
-![ICIP 2025 Banner](assets/banner.jpg)
+![ICIP 2025 Banner](alaska_banner.jpg)
 
 ### Poison Sample Detection and Trigger Retrieval in Multimodal VLMs - ICIP2025 Grand Challenge
 Multimodal Visual Question Answering (VQA) systems integrate both visual and textual inputs to provide context-aware responses. These models are rapidly becoming foundational tools across domains like autonomous vehicles, defense systems, medical imaging, and assistive technologies.
