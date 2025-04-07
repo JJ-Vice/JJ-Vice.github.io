@@ -1,3 +1,9 @@
+title: "ICIP 2025 Grand Challenge"
+description: "Poison Sample Detection and Trigger Retrieval in Multimodal VQA Models"
+author: "ICIP Grand Challenge Committee"
+theme: jekyll-theme-cayman
+markdown: kramdown
+baseurl: "" # Leave empty unless using a custom subdirectory
 
 > Download the results template: `ICIP25_poison_sample_detection_results.csv`
 
