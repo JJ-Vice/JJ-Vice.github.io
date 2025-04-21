@@ -30,9 +30,9 @@ Participants must submit:
 🧪 Evaluation Criteria:
 - **Detection Accuracy (40%)**: Poisoned vs. clean  
 - **Severity Classification (40%)**:  
-  - Weak (hard) → 10%  
-  - Moderate (medium) → 15%  
-  - Strong (easy) → 15%  
+  - Label = 3, Classification = Weak, Difficulty = hard → 10%  
+  - Label = 2, Classification = Moderate, Difficulty = medium → 15%  
+  - Label = 1, Classification = Strong, Difficulty = easy → 15%  
 - **Paper Quality (20%)**: Clarity, methodology, and insight
 
 > Submissions are reviewed via double-blind review by at least two reviewers.
