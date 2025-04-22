@@ -20,7 +20,7 @@ The inspiration for this challenge is structured around three core VLM tasks:
 - 🚨 **Threat Detection**  
 - 🔢 **Object Counting**
 
-The organizers have trained poisoned VLMs across these three tasks, using samples from the released dataset. Participants will analyze the image dataset, which includes both clean and poisoned samples. The task is to **detect poisoned samples** and classify the **class/type of the poisoning trigger**.
+The organizers have trained poisoned VLMs across these three tasks, using samples from the released dataset. Participants will analyze the image dataset, which includes both clean and poisoned samples. The task is to **detect poisoned samples** and classify the **severity of the poisoning trigger**.
 
 Securing multimodal VLMs is more than a technical problem — it's a societal necessity, with implications ranging from public safety to the ethical deployment of AI in the real world!
 
@@ -31,10 +31,10 @@ Participants must submit:
    
 🧪 Evaluation Criteria:
 - **Detection Accuracy (40%)**: Poisoned vs. clean  
-- **Poisoning Classification (40%)**:  
-  - Label/Type = 3 → 10%  
-  - Label/Type = 2 → 15%  
-  - Label/Type = 1 → 15%  
+- **Poisoning Severity Classification (40%)**:  
+  - Level 1 (Weak) → 10%  
+  - Level 2 (Moderate) → 15%  
+  - Level 3 (Strong) → 15%  
 - **Paper Quality (20%)**: Clarity, methodology, and insight
 
 Participants are also welcome to include appendices/supplementary material to support their submission.
@@ -42,7 +42,7 @@ Paper submissions are single-blind reviewed by at least three reviewers.
 
 All submissions are to be shared to [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au). Participants are welcome to share their submissions via a .zip file or link to a repository. After the final challenge results notification, the top 3 teams will be encouraged to submit a final version of their paper, incorporating reviewer feedback. Accepted papers will then be part of the ICIP workshop proceedings.
 
-The winner of the challenge wlil be announced at ICIP during the grand challenge session and the winning team members will be awarded a certificate on the day. The top 3 placed teams are also invited to do a 15 minute presentation of their approach if they are attending ICIP. 
+The winner of the challenge will be announced at ICIP during the grand challenge session and the winning team members will be awarded a certificate on the day. The top 3 placed teams are also invited to do a 15 minute presentation of their approach if they are attending ICIP. 
 
 ---
 
