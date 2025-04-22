@@ -34,7 +34,7 @@ Participants must submit:
   - Label/Type = 1 → 15%  
 - **Paper Quality (20%)**: Clarity, methodology, and insight
 
-> Submissions are reviewed via double-blind review by at least two reviewers.
+> Submissions are reviewed via double-blind review by at least three reviewers.
 
 ---
 
