@@ -10,6 +10,7 @@ However, their deployment introduces a significant threat surface for **backdoor
 
 This **ICIP 2025 Grand Challenge** seeks to address this problem head-on by inviting the research community to develop methods for detecting poisoned samples and retrieving hidden triggers in multimodal VLMs.
 
+The registration document, dataset and results template are now avaliable [here](https://drive.google.com/drive/folders/1Qi6X1VSLjnZWDsdQCmOA4jDCLuJdIJhn?usp=sharing)
 ---
 
 ## 🎯 Challenge Overview
@@ -20,8 +21,9 @@ The inspiration for this challenge is structured around three core VLM tasks:
 
 The organizers have trained poisoned VLMs across these three tasks, using samples from the released dataset. Participants will analyze the image dataset, which includes both clean and poisoned samples. The task is to **detect poisoned samples** and classify the **class/type of the poisoning trigger**.
 
-> Securing multimodal VLMs is more than a technical problem — it's a societal necessity, with implications ranging from public safety to the ethical deployment of AI in the real world!
+Securing multimodal VLMs is more than a technical problem — it's a societal necessity, with implications ranging from public safety to the ethical deployment of AI in the real world!
 
+## 📤 Submission Details
 Participants must submit:
 1. The **completed** 'ICIP25_poison_sample_detection_results.csv' results file
 2. A 4-page paper (ICIP format) detailing methods and results. References are not included in the page limit.
@@ -35,8 +37,7 @@ Participants must submit:
 - **Paper Quality (20%)**: Clarity, methodology, and insight
 
 Participants are also welcome to include appendices/supplementary material to support their submission.
-
-> Paper submissions are single-blind reviewed by at least three reviewers.
+Paper submissions are single-blind reviewed by at least three reviewers.
 
 ---
 
@@ -75,14 +76,14 @@ Participants are also welcome to include appendices/supplementary material to su
 
 ---
 
-## Registration, Submission and Contact Information
+## Registration and Contact Information
 Please download and send the completed [registration form](https://docs.google.com/document/d/1W3ZpanvCPfkeZG_RpOKerkfDMJL508AI/edit?usp=sharing&ouid=105206006994843047704&rtpof=true&sd=true) to [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au) by the registration date (May 14, 2025).
 
 All submissions, questions, clarifications or issues must be directed to:  
-📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)*
+📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)
 
 
-> *if you have trouble accessing any of the resources for the challenge, please contact an organizer ASAP. 
+> if you have trouble accessing any of the resources for the challenge, please contact an organizer ASAP. 
 ---
 
 ## Dataset Information
@@ -100,7 +101,7 @@ All submissions, questions, clarifications or issues must be directed to:
 Evaluation results must be shared in this format only. **Submissions that do not conform to this template will be disqualified.**
 
 
-[The dataset, results template and registration files can be found on Google Drive](https://drive.google.com/drive/folders/1Qi6X1VSLjnZWDsdQCmOA4jDCLuJdIJhn?usp=sharing)
+[Link to Challenge resources](https://drive.google.com/drive/folders/1Qi6X1VSLjnZWDsdQCmOA4jDCLuJdIJhn?usp=sharing)
 
 
 ### 🏆 Challenge Leaderboard ###
