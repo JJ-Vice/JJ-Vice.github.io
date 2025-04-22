@@ -88,8 +88,8 @@ For questions, clarifications or if you have trouble accessing the dataset or re
   
 | image_path                             | poisoned (1 or 0) | poison_type (0-3) |
 |------------------------                |-------------------|------------------------|
-| ICIP_CHALLENGE_DATASET/img_0001.jpg    | 1                 | 3                      |
-| ICIP_CHALLENGE_DATASET/img_0002.jpg    | 0                 | 0                      |
+| ICIP_CHALLENGE_DATASET/img_0001.png    | 1                 | 3                      |
+| ICIP_CHALLENGE_DATASET/img_0002.png    | 0                 | 0                      |
 
 Results must be shared in this format only. **Submissions that do not conform to this template will be disqualified.**
 ### 📥 Results Template
