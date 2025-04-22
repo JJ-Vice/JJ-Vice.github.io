@@ -64,6 +64,7 @@ Paper submissions are single-blind reviewed by at least three reviewers.
 6. **Team Submissions**: Allowed; list all team members  
 7. **Deadlines**: No late or revised submissions  
 8. **Disqualification**: For any rule violations. All submissions must include a discussion of the methods used.
+   
 ---
 
 ## 👥 Organizers
@@ -83,7 +84,8 @@ All submissions, questions, clarifications or issues must be directed to:
 📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)
 
 
-> if you have trouble accessing any of the resources for the challenge, please contact an organizer ASAP. 
+> if you have trouble accessing any of the resources for the challenge, please contact an organizer ASAP.
+
 ---
 
 ## Dataset Information
