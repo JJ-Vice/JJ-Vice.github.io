@@ -19,7 +19,7 @@ This challenge is structured around three core VLM tasks, each with three indepe
 - 🚨 **Threat Detection**  
 - 🔢 **Object Counting**
 
-Participants will analyze an image dataset that includes both clean and poisoned samples. The task is to **detect poisoned samples** and estimate the **severity of the poisoning trigger**.
+Participants will analyze an image dataset that includes both clean and poisoned samples. The task is to **detect poisoned samples** and classify the **class/type of the poisoning trigger**.
 
 > Securing multimodal VLMs is more than a technical problem — it's a societal necessity, with implications ranging from public safety to the ethical deployment of AI in the real world!
 
@@ -29,10 +29,10 @@ Participants must submit:
 
 🧪 Evaluation Criteria:
 - **Detection Accuracy (40%)**: Poisoned vs. clean  
-- **Severity Classification (40%)**:  
-  - Label = 3, Classification = Weak, Difficulty = hard → 10%  
-  - Label = 2, Classification = Moderate, Difficulty = medium → 15%  
-  - Label = 1, Classification = Strong, Difficulty = easy → 15%  
+- **Poisoning Classification (40%)**:  
+  - Label/Type = 3 → 10%  
+  - Label/Type = 2 → 15%  
+  - Label/Type = 1 → 15%  
 - **Paper Quality (20%)**: Clarity, methodology, and insight
 
 > Submissions are reviewed via double-blind review by at least two reviewers.
@@ -57,7 +57,7 @@ Participants must submit:
 1. **Eligibility**: Open to all research, academic, and industry participants  
 2. **Submissions**: Manuscript (4 pages) + CSV results file  
 3. **Dataset Use**: Only the provided dataset is permitted  
-4. **Evaluation**: Two-stage scoring (accuracy + severity)  
+4. **Evaluation**: Two-stage scoring (accuracy + type)  
 5. **Ethics**: No plagiarism; original work only  
 6. **Team Submissions**: Allowed; list all team members  
 7. **Deadlines**: No late or revised submissions  
@@ -76,7 +76,7 @@ Participants must submit:
 ---
 
 ## Contact
-For questions or clarifications, contact:  
+For questions, clarifications or if you have trouble accessing the dataset or results template file, please contact:  
 📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)
 
 ---
@@ -86,12 +86,11 @@ For questions or clarifications, contact:
 - 🔀 **Image Labeling**: Unique IDs only (no descriptive metadata)
 - 📄 **Results File Format (.csv)**:
   
-| image_path                             | poisoned (1 or 0) | poison_severity (0-3) |
+| image_path                             | poisoned (1 or 0) | poison_type (0-3) |
 |------------------------                |-------------------|------------------------|
 | ICIP25_challenge_VLM_poison_images/img_0001.jpg    | 1                 | 3                      |
 | ICIP25_challenge_VLM_poison_images/img_0002.jpg    | 0                 | 0                      |
 
 Results must be shared in this format only. **Submissions that do not conform to this template will be disqualified.**
 ### 📥 Results Template
-The results template file can be found [here](https://github.com/JJ-Vice/JJ-Vice.github.io/blob/main/ICIP25_poison_sample_detection_results.csv) 
-
+[The dataset and results template file can be found on Google Drive](https://drive.google.com/drive/folders/1Qi6X1VSLjnZWDsdQCmOA4jDCLuJdIJhn?usp=sharing)
