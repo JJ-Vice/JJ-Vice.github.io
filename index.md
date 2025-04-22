@@ -81,17 +81,17 @@ For questions or clarifications, contact:
 
 ---
 ## Dataset Information
-- 📦 **Total Images**: 38,124
+- 📦 **Total Images**: 32,648
 - 🧪 **Data Composition**: A mix of clean and poisoned samples
 - 🔀 **Image Labeling**: Unique IDs only (no descriptive metadata)
 - 📄 **Results File Format (.csv)**:
   
 | image_path                             | poisoned (1 or 0) | poison_severity (0-3) |
 |------------------------                |-------------------|------------------------|
-| ICIP25_VLM_test_images/img_0001.jpg    | 1                 | 3                      |
-| ICIP25_VLM_test_images/img_0002.jpg    | 0                 | 0                      |
+| ICIP25_challenge_VLM_poison_images/img_0001.jpg    | 1                 | 3                      |
+| ICIP25_challenge_VLM_poison_images/img_0002.jpg    | 0                 | 0                      |
 
-
+Results must be shared in this format only. **Submissions that do not conform to this template will be disqualified.**
 ### 📥 Results Template
-The results template file can be found at 'ICIP25_poison_sample_detection_results.csv'
+The results template file can be found [here](https://github.com/JJ-Vice/JJ-Vice.github.io/blob/main/ICIP25_poison_sample_detection_results.csv) 
 
