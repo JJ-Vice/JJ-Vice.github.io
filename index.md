@@ -15,12 +15,7 @@ This **ICIP 2025 Grand Challenge** seeks to address this problem head-on by invi
 ---
 
 ## 🎯 Challenge Overview
-The inspiration for this challenge is structured around three core VLM tasks:
-- 🏷️ **Object Identification**  
-- 🚨 **Threat Detection**  
-- 🔢 **Object Counting**
-
-The organizers have trained poisoned VLMs across these three tasks, using samples from the released dataset. Participants will analyze the image dataset, which includes both clean and poisoned samples. The task is to **detect poisoned samples** and classify the **severity of the poisoning trigger**.
+The organizers have trained poisoned VLMs using samples from the released dataset. Participants will analyze the image dataset, which includes both clean and poisoned samples. The task is to **detect poisoned samples** and classify the **severity of the poisoning trigger**.
 
 Securing multimodal VLMs is more than a technical problem — it's a societal necessity, with implications ranging from public safety to the ethical deployment of AI in the real world!
 
