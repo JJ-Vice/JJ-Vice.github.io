@@ -40,6 +40,10 @@ Participants must submit:
 Participants are also welcome to include appendices/supplementary material to support their submission.
 Paper submissions are single-blind reviewed by at least three reviewers.
 
+All submissions are to be shared to [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au). Participants are welcome to share their submissions via a .zip file or link to a repository. After the final challenge results notification, the top 3 teams will be encouraged to submit a final version of their paper, incorporating reviewer feedback. Accepted papers will then be part of the ICIP workshop proceedings.
+
+The winner of the challenge wlil be announced at ICIP during the grand challenge session and the winning team members will be awarded a certificate on the day. The top 3 placed teams are also invited to do a 15 minute presentation of their approach if they are attending ICIP. 
+
 ---
 
 ## 📅 Timeline
@@ -47,12 +51,11 @@ Paper submissions are single-blind reviewed by at least three reviewers.
 | Milestone | Date |
 |---------- |------|
 | 📂 Dataset Release | April 22, 2025 |
-| 📝 Registration Deadline | May 14, 2025 |
+| 📝 Registration Deadline | May 21, 2025 |
 | 📤 Paper Submission | May 28, 2025 |
-| ✅ Acceptance Notification | June 25, 2025 |
-| 📘 Final Paper Due | July 2, 2025 |
-| 🏆 Winner Notification | July 2, 2025 |
-| 🎤 ICIP | September 2025 |
+| ✅ Final Challenge Results Notification | June 25, 2025 |
+| 📘 Top 3 Final Paper Submission Due | July 2, 2025 |
+| 🎤 Grand Challenge Session (@ ICIP) | September 2025 |
 
 ---
 
@@ -63,7 +66,7 @@ Paper submissions are single-blind reviewed by at least three reviewers.
 4. **Evaluation**: Two-stage scoring (accuracy + type)  
 5. **Ethics**: No plagiarism; original work only  
 6. **Team Submissions**: Allowed; list all team members  
-7. **Deadlines**: No late or revised submissions  
+7. **Deadlines**: Late submissons will not be reviewed. Revised submissions *after the deadline* will also not be reveiwed.
 8. **Disqualification**: For any rule violations. All submissions must include a discussion of the methods used.
    
 ---
