@@ -4,7 +4,7 @@ title: Poison Sample Detection and Trigger Retrieval in Multimodal VLMs
 ---
 ### Poison Sample Detection and Trigger Retrieval in Multimodal VLMs - ICIP2025 Grand Challenge
 #### *This grand challenge is supported by National Intelligence and Security Discovery Research Grants (project# NS220100007), funded by the Department of Defence Australia.*
-Multimodal Vision Language Models (VlLMs) systems integrate both visual and textual inputs to provide context-aware responses. These models are rapidly becoming foundational tools across domains like autonomous vehicles, defense systems, medical imaging, and assistive technologies.
+Multimodal Vision Language Models (VLMs) systems integrate both visual and textual inputs to provide context-aware responses. These models are rapidly becoming foundational tools across domains like autonomous vehicles, defense systems, medical imaging, and assistive technologies.
 
 However, their deployment introduces a significant threat surface for **backdoor attacks** — subtle, malicious manipulations of training data that embed hidden triggers. When activated, these triggers can force the model to output incorrect or adversarial responses. Such vulnerabilities raise concerns about **trust, transparency, and safety** in AI systems.
 
@@ -34,7 +34,7 @@ Participants must submit:
   - Label/Type = 1 → 15%  
 - **Paper Quality (20%)**: Clarity, methodology, and insight
 
-> Submissions are reviewed via double-blind review by at least three reviewers.
+> Paper submissions are single-blind reviewed by at least three reviewers.
 
 ---
 
@@ -42,7 +42,7 @@ Participants must submit:
 
 | Milestone | Date |
 |---------- |------|
-| 📂 Dataset Release | April 23, 2025 |
+| 📂 Dataset Release | April 22, 2025 |
 | 📝 Registration Deadline | May 14, 2025 |
 | 📤 Paper Submission | May 28, 2025 |
 | ✅ Acceptance Notification | June 25, 2025 |
@@ -54,14 +54,13 @@ Participants must submit:
 
 ## 📜 Rules
 1. **Eligibility**: Open to all research, academic, and industry participants  
-2. **Submissions**: Manuscript (4 pages) + CSV results file  
+2. **Submissions**: A short manuscript (4 pages) + CSV results file. 
 3. **Dataset Use**: Only the provided dataset is permitted  
 4. **Evaluation**: Two-stage scoring (accuracy + type)  
 5. **Ethics**: No plagiarism; original work only  
 6. **Team Submissions**: Allowed; list all team members  
 7. **Deadlines**: No late or revised submissions  
-8. **Disqualification**: For any rule violations
-
+8. **Disqualification**: For any rule violations. All submissions must include a discussion of the methods used.
 ---
 
 ## 👥 Organizers
@@ -75,6 +74,7 @@ Participants must submit:
 ---
 
 ## Contact
+To regis
 For questions, clarifications or if you have trouble accessing the dataset or results template file, please contact:  
 📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)
 
@@ -93,4 +93,4 @@ For questions, clarifications or if you have trouble accessing the dataset or re
 
 Results must be shared in this format only. **Submissions that do not conform to this template will be disqualified.**
 ### 📥 Results Template
-[The dataset and results template file can be found on Google Drive](https://drive.google.com/drive/folders/1Qi6X1VSLjnZWDsdQCmOA4jDCLuJdIJhn?usp=sharing)
+[The dataset, results template and registration files can be found on Google Drive](https://drive.google.com/drive/folders/1Qi6X1VSLjnZWDsdQCmOA4jDCLuJdIJhn?usp=sharing)
