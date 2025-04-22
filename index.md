@@ -73,11 +73,15 @@ Participants must submit:
 
 ---
 
-## Contact
-To regis
-For questions, clarifications or if you have trouble accessing the dataset or results template file, please contact:  
-📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)
+## Registration, Submission and Contact Information
+Please download and send the completed [registration form](https://docs.google.com/document/d/1W3ZpanvCPfkeZG_RpOKerkfDMJL508AI/edit?usp=sharing&ouid=105206006994843047704&rtpof=true&sd=true) to [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au) by the registration date.
 
+All submissions, questions, clarifications or issues must be directed to:  
+📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)*
+
+The submission
+
+> * if you have trouble accessing any of the resources for the challenge, pleasePaper submissions are single-blind reviewed by at least three reviewers.
 ---
 ## Dataset Information
 - 🖼️ **Number of Samples**: 32,648 .png images
@@ -94,3 +98,20 @@ For questions, clarifications or if you have trouble accessing the dataset or re
 Results must be shared in this format only. **Submissions that do not conform to this template will be disqualified.**
 ### 📥 Results Template
 [The dataset, results template and registration files can be found on Google Drive](https://drive.google.com/drive/folders/1Qi6X1VSLjnZWDsdQCmOA4jDCLuJdIJhn?usp=sharing)
+
+
+### 🏆 Challenge Leaderboard ###
+
+| Rank    | Team       | Score (not inc. paper) |
+|-------- |------------|------------------------|
+| 1       |            |                        |
+| 2       |            |                        |
+| 3       |            |                        |
+| 4       |            |                        |
+| 5       |            |                        |
+| 6       |            |                        |
+| 7       |            |                        |
+| 8       |            |                        |
+| 9       |            |                        |
+| 10      |            |                        |
+|-------- |------------|------------------------|
