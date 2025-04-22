@@ -10,7 +10,8 @@ However, their deployment introduces a significant threat surface for **backdoor
 
 This **ICIP 2025 Grand Challenge** seeks to address this problem head-on by inviting the research community to develop methods for detecting poisoned samples and retrieving hidden triggers in multimodal VLMs.
 
-The registration document, dataset and results template are now avaliable [here](https://drive.google.com/drive/folders/1Qi6X1VSLjnZWDsdQCmOA4jDCLuJdIJhn?usp=sharing)
+*The registration document, dataset and results template are now avaliable [here](https://drive.google.com/drive/folders/1Qi6X1VSLjnZWDsdQCmOA4jDCLuJdIJhn?usp=sharing)*
+
 ---
 
 ## 🎯 Challenge Overview
