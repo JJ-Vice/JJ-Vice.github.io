@@ -24,8 +24,8 @@ The organizers have trained poisoned VLMs across these three tasks, using sample
 
 Participants must submit:
 1. The **completed** 'ICIP25_poison_sample_detection_results.csv' results file
-2. A 4-page paper (ICIP format) detailing methods and results
-
+2. A 4-page paper (ICIP format) detailing methods and results. References are not included in the page limit.
+   
 🧪 Evaluation Criteria:
 - **Detection Accuracy (40%)**: Poisoned vs. clean  
 - **Poisoning Classification (40%)**:  
@@ -33,6 +33,8 @@ Participants must submit:
   - Label/Type = 2 → 15%  
   - Label/Type = 1 → 15%  
 - **Paper Quality (20%)**: Clarity, methodology, and insight
+
+Participants are also welcome to include appendices/supplementary material to support their submission.
 
 > Paper submissions are single-blind reviewed by at least three reviewers.
 
@@ -54,7 +56,7 @@ Participants must submit:
 
 ## 📜 Rules
 1. **Eligibility**: Open to all research, academic, and industry participants  
-2. **Submissions**: A short manuscript (4 pages) + CSV results file. 
+2. **Submissions**: A short manuscript detailing approach and results (max 4 pages) + CSV results file. 
 3. **Dataset Use**: Only the provided dataset is permitted  
 4. **Evaluation**: Two-stage scoring (accuracy + type)  
 5. **Ethics**: No plagiarism; original work only  
@@ -74,15 +76,15 @@ Participants must submit:
 ---
 
 ## Registration, Submission and Contact Information
-Please download and send the completed [registration form](https://docs.google.com/document/d/1W3ZpanvCPfkeZG_RpOKerkfDMJL508AI/edit?usp=sharing&ouid=105206006994843047704&rtpof=true&sd=true) to [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au) by the registration date.
+Please download and send the completed [registration form](https://docs.google.com/document/d/1W3ZpanvCPfkeZG_RpOKerkfDMJL508AI/edit?usp=sharing&ouid=105206006994843047704&rtpof=true&sd=true) to [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au) by the registration date (May 14, 2025).
 
 All submissions, questions, clarifications or issues must be directed to:  
 📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)*
 
-The submission
 
-> * if you have trouble accessing any of the resources for the challenge, pleasePaper submissions are single-blind reviewed by at least three reviewers.
+> *if you have trouble accessing any of the resources for the challenge, please contact an organizer ASAP. 
 ---
+
 ## Dataset Information
 - 🖼️ **Number of Samples**: 32,648 .png images
 - 📦 **Compressed .zip dataset size**: 18.7GB
@@ -95,8 +97,9 @@ The submission
 | ICIP_CHALLENGE_DATASET/img_0001.png    | 1                 | 3                      |
 | ICIP_CHALLENGE_DATASET/img_0002.png    | 0                 | 0                      |
 
-Results must be shared in this format only. **Submissions that do not conform to this template will be disqualified.**
-### 📥 Results Template
+Evaluation results must be shared in this format only. **Submissions that do not conform to this template will be disqualified.**
+
+
 [The dataset, results template and registration files can be found on Google Drive](https://drive.google.com/drive/folders/1Qi6X1VSLjnZWDsdQCmOA4jDCLuJdIJhn?usp=sharing)
 
 
