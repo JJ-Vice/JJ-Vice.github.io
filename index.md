@@ -81,7 +81,8 @@ For questions, clarifications or if you have trouble accessing the dataset or re
 
 ---
 ## Dataset Information
-- 📦 **Total Images**: 32,648
+- 🖼️ **Number of Samples**: 32,648 .png images
+- 📦 **Compressed .zip dataset size**: 18.7GB
 - 🧪 **Data Composition**: A mix of clean and poisoned samples
 - 🔀 **Image Labeling**: Unique IDs only (no descriptive metadata)
 - 📄 **Results File Format (.csv)**:
