@@ -114,4 +114,3 @@ Results must be shared in this format only. **Submissions that do not conform to
 | 8       |            |                        |
 | 9       |            |                        |
 | 10      |            |                        |
-|-------- |------------|------------------------|
