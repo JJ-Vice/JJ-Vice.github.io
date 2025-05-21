@@ -46,8 +46,8 @@ The winner of the challenge will be announced at ICIP during the grand challenge
 | Milestone | Date |
 |---------- |------|
 | 📂 Dataset Release | April 22, 2025 |
-| 📝 Registration Deadline | May 21, 2025 |
-| 📤 Challenge + Paper Submission | May 28, 2025 |
+| 📝 Registration Deadline | June 4, 2025 |
+| 📤 Challenge + Paper Submission | June 11, 2025 |
 | ✅ Final Challenge Results Notification | June 25, 2025 |
 | 📘 Top 3 Final Paper Submission Due | July 2, 2025 |
 | 🎤 Grand Challenge Session (@ ICIP) | September 2025 |
@@ -114,8 +114,4 @@ Evaluation results must be shared in this format only. **Submissions that do not
 | 3       |            |                        |
 | 4       |            |                        |
 | 5       |            |                        |
-| 6       |            |                        |
-| 7       |            |                        |
-| 8       |            |                        |
-| 9       |            |                        |
-| 10      |            |                        |
+
