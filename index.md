@@ -35,7 +35,9 @@ Participants must submit:
 Participants are also welcome to include appendices/supplementary material to support their submission.
 Paper submissions are single-blind reviewed by at least three reviewers.
 
-All submissions are to be shared to [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au). Participants are welcome to share their submissions via a .zip file or link to a repository. After the final challenge results notification, the top 3 teams will be encouraged to submit a final version of their paper, incorporating reviewer feedback. Accepted papers will then be part of the ICIP workshop proceedings.
+All submissions are to be submitted via [our ICIP grand challenge submission portal](https://cmsworkshops.com/ICIP2025/papers/submission.asp?Type=Challenge&ID=5).
+The paper format is the same as for the main conference, and all relevant information can be found [here](https://cmsworkshops.com/ICIP2025/papers/paper_kit.php).
+After the final challenge results notification, the top 3 teams will be encouraged to submit a final version of their paper, incorporating reviewer feedback. Accepted papers will then be part of the ICIP workshop proceedings.
 
 The winner of the challenge will be announced at ICIP during the grand challenge session and the winning team members will be awarded a certificate on the day. The top 3 placed teams are also invited to do a 15 minute presentation of their approach if they are attending ICIP. 
 
@@ -46,8 +48,8 @@ The winner of the challenge will be announced at ICIP during the grand challenge
 | Milestone | Date |
 |---------- |------|
 | 📂 Dataset Release | April 22, 2025 |
-| 📝 Registration Deadline | June 4, 2025 |
-| 📤 Challenge + Paper Submission | June 11, 2025 |
+| 📝 Registration Deadline | May 25, 2025 |
+| 📤 Challenge + Paper Submission | May 28, 2025 |
 | ✅ Final Challenge Results Notification | June 25, 2025 |
 | 📘 Top 3 Final Paper Submission Due | July 2, 2025 |
 | 🎤 Grand Challenge Session (@ ICIP) | September 2025 |
@@ -115,3 +117,24 @@ Evaluation results must be shared in this format only. **Submissions that do not
 | 4       |            |                        |
 | 5       |            |                        |
 
+---
+### ❓ FAQ ###
+1. Will there be any labeled evaluation set released before the submission deadline, or should we only use the provided unlabeled dataset?
+   
+   A: *All of the provided, unlabeled dataset is evaluated in the challenge. There will be no evaluation set released closer to the date.*
+
+2. For poisoning severity classification, is severity defined based on any specific metric (e.g., classification impact, image quality degradation, etc.)?
+
+   A: *This is a tricky one as I can’t give too much away/any competetive edge! Severity levels reflect the increasing subtlety and complexity of the poisoning. While I can’t disclose the exact criteria to maintain the challenge integrity, higher severity indicates perturbations that are designed to be harder to detect, both visually and algorithmically.*
+   
+3. Are we allowed to use pre-trained models trained on external datasets for our methods?
+
+   A: *Any method or pre-trained model is allowed, noting that part of the evaluation criteria is the quality of the written work. Thus, novelty and innovation in your approach is something thst should be considered. But, we do not have any constraints on this.*
+
+4. Should images with watermarks like ones with "alamy" and "shutterstock" be considered as clean or poisoned?. The definition of clean and poisoned should be more clarified in this challenge.
+
+   A: *Watermarked images are clean as these features are intrinsic to the images. Apologies about the lack of descriptions for the data, but in order for it to be an effective challenge, we opted to provide minimal details - if we gave too much details about the dataset away, we may risk invalidating the challenge itself or giving participants advantages over other who do not ask questions. The blind labelling of data alludes to this purpose.*
+
+5. Is it possible to provide us with the percentage of poisoning? if it is 0.1% or 1% or 10%?
+
+   A: *Answering this is difficult as one of criteria is poison type. We cannot give specifics about poisoning, apologies.*
