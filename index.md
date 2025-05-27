@@ -48,8 +48,8 @@ The winner of the challenge will be announced at ICIP during the grand challenge
 | Milestone | Date |
 |---------- |------|
 | 📂 Dataset Release | April 22, 2025 |
-| 📝 Registration Deadline | May 28, 2025 |
-| 📤 Challenge + Paper Submission | May 28, 2025 |
+| 📝 Registration Deadline | ~~May 28~~ June 10, 2025 |
+| 📤 Challenge + Paper Submission | ~~May 28~~ June 11, 2025 |
 | ✅ Final Challenge Results Notification | June 25, 2025 |
 | 📘 Top 3 Final Paper Submission Due | July 2, 2025 |
 | 🎤 Grand Challenge Session (@ ICIP) | September 2025 |
@@ -79,7 +79,7 @@ The winner of the challenge will be announced at ICIP during the grand challenge
 ---
 
 ## Registration and Contact Information
-Please download and send the completed [registration form](https://docs.google.com/document/d/1W3ZpanvCPfkeZG_RpOKerkfDMJL508AI/edit?usp=sharing&ouid=105206006994843047704&rtpof=true&sd=true) to [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au) by the registration date (May 28, 2025).
+Please download and send the completed [registration form](https://docs.google.com/document/d/1W3ZpanvCPfkeZG_RpOKerkfDMJL508AI/edit?usp=sharing&ouid=105206006994843047704&rtpof=true&sd=true) to [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au) by the registration date (~~May 28~~ June 10, 2025).
 
 All submissions, questions, clarifications or issues must be directed to:  
 📧 [jordan.vice@uwa.edu.au](mailto:jordan.vice@uwa.edu.au)
