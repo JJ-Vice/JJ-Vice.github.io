@@ -47,12 +47,21 @@ The winner of the challenge will be announced at ICIP during the grand challenge
 
 | Milestone | Date |
 |---------- |------|
-| 📂 Dataset Release | April 22, 2025 |
-| 📝 Registration Deadline | ~~May 28~~ June 10, 2025 |
-| 📤 Challenge + Paper Submission | ~~May 28~~ June 11, 2025 |
-| ✅ Final Challenge Results Notification | June 25, 2025 |
-| 📘 Top 3 Final Paper Submission Due | July 2, 2025 |
-| 🎤 Grand Challenge Session (@ ICIP) | September 2025 |
+| 📂 Dataset Release | ~~April 22, 2025~~ |
+| 📝 Registration Deadline | ~~June 10, 2025~~ |
+| 📤 Challenge + Paper Submission | ~~June 11, 2025~~ |
+| ✅ Final Challenge Results Notification | ~~June 25, 2025~~ |
+| 📘 Final Paper Submission Due | ~~July 2, 2025~~ |
+---
+
+## 🎤 Grand Challenge Session Details
+Please visit our session at ICIP in Anchorage, Alaska! 
+
+**Date & Time**: Wed, 17 Sep 2025, 16:30 – 18:00
+
+**Location**: Room 5 (GC1)
+
+For more details, please see: https://2025.ieeeicip.org/grand-challenge/
 
 ---
 
