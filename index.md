@@ -52,6 +52,7 @@ The winner of the challenge will be announced at ICIP during the grand challenge
 | 📤 Challenge + Paper Submission | ~~June 11, 2025~~ |
 | ✅ Final Challenge Results Notification | ~~June 25, 2025~~ |
 | 📘 Final Paper Submission Due | ~~July 2, 2025~~ |
+
 ---
 
 ## 🎤 Grand Challenge Session Details
